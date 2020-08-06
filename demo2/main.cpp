@@ -62,3 +62,4 @@ int main()
 }
 //先编译好glog，复制到项目目录下。
 //使用VC2017，需要设置：C++选项，包含文件夹加上 "include"，然后选择不要预编译头。然后按x64位工作。
+//文章在：http://blog.chinaunix.net/uid-15063109-id-5836944.html
